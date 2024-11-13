@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">言語</string>
+    <string name="title_activity_dash_board">ダッシュボード</string>
+    <string name="navigation_drawer_open">ナビゲーションドロワーを開く</string>
+    <string name="navigation_drawer_close">ナビゲーションドロワーを閉じる</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">ナビゲーションヘッダー</string>
+    <string name="action_settings">設定</string>
+
+    <string name="menu_home">ホーム</string>
+    <string name="menu_gallery">ギャラリー</string>
+    <string name="menu_slideshow">スライドショー</string>
+
+    <string name="hello_blank_fragment">こんにちは、空のフラグメント</string>
+    <string name="slogan">目標を現実に変える、一度に1つのタスク。</string>
+    <string name="get_started">始める</string>
+    <string name="images">画像</string>
+    <string name="videos">ビデオ</string>
+    <string name="audio">オーディオ</string>
+    <string name="contact">連絡</string>
+    <string name="setting">設定</string>
+    <string name="home">ホーム</string>
+    <string name="languages">言語</string>
+</resources>

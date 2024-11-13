@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/splashScreen">
+    <fragment
+        android:id="@+id/splashScreen"
+        android:name="com.example.languages.SplashScreen"
+        android:label="fragment_splash_screen"
+        tools:layout="@layout/fragment_splash_screen" >
+        <action
+            android:id="@+id/action_splashScreen_to_dashboard"
+            app:destination="@id/dashboard"
+            app:popUpTo="@+id/nav_graph"
+            app:popUpToInclusive="true"/>
+        <action
+            android:id="@+id/action_splashScreen_to_languageSet"
+            app:destination="@id/languageSet" />
+    </fragment>
+    <fragment
+        android:id="@+id/dashboard"
+        android:name="com.example.languages.Dashboard"
+        android:label="Dashboard" >
+        <action
+            android:id="@+id/action_dashboard_to_languageSet"
+            app:destination="@id/languageSet" />
+    </fragment>
+    <fragment
+        android:id="@+id/languageSet"
+        android:name="com.example.languages.LanguageSet"
+        android:label="fragment_language_set"
+        tools:layout="@layout/fragment_language_set" />
+</navigation>

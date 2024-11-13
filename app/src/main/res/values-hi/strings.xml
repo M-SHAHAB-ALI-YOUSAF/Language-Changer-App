@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">भाषाएँ</string>
+    <string name="title_activity_dash_board">डैशबोर्ड</string>
+    <string name="navigation_drawer_open">नेविगेशन ड्रॉअर खोलें</string>
+    <string name="navigation_drawer_close">नेविगेशन ड्रॉअर बंद करें</string>
+    <string name="nav_header_title">एंड्रॉयड स्टूडियो</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">नेविगेशन हेडर</string>
+    <string name="action_settings">सेटिंग्स</string>
+
+    <string name="menu_home">होम</string>
+    <string name="menu_gallery">गैलरी</string>
+    <string name="menu_slideshow">स्लाइडशो</string>
+
+    <string name="hello_blank_fragment">नमस्ते ब्लैंक फ़्रैगमेंट</string>
+    <string name="slogan">आपके लक्ष्यों को वास्तविकता में बदलना, एक कार्य में समय के साथ।</string>
+    <string name="get_started">शुरू करें</string>
+    <string name="images">चित्र</string>
+    <string name="videos">वीडियो</string>
+    <string name="audio">ऑडियो</string>
+    <string name="contact">संपर्क</string>
+    <string name="setting">सेटिंग्स</string>
+    <string name="home">होम</string>
+    <string name="languages">भाषाएँ</string>
+</resources>

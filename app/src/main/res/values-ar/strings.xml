@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">لغات</string>
+    <string name="title_activity_dash_board">لوحة القيادة</string>
+    <string name="navigation_drawer_open">فتح الدرج الجانبي</string>
+    <string name="navigation_drawer_close">إغلاق الدرج الجانبي</string>
+    <string name="nav_header_title">أندرويد ستوديو</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">رأس التنقل</string>
+    <string name="action_settings">الإعدادات</string>
+
+    <string name="menu_home">الصفحة الرئيسية</string>
+    <string name="menu_gallery">المعرض</string>
+    <string name="menu_slideshow">عرض الشرائح</string>
+
+    <string name="hello_blank_fragment">مرحبًا بالجزء الفارغ</string>
+    <string name="slogan">تحويل أهدافك إلى واقع، مهمة تلو الأخرى.</string>
+    <string name="get_started">ابدأ</string>
+    <string name="images">صور</string>
+    <string name="videos">فيديوهات</string>
+    <string name="audio">صوت</string>
+    <string name="contact">اتصل</string>
+    <string name="setting">إعدادات</string>
+    <string name="home">الصفحة الرئيسية</string>
+    <string name="languages">اللغات</string>
+</resources>
